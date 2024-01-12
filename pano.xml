@@ -4123,7 +4123,7 @@
         <custompropertyvalue variablename="vis_footprint" value="true"/>
       </polyhotspot>
       <polyhotspot description="발자국" url="{node25}" id="Poly06" title="" target="$fwd">
-        <polystring>-192.6/-24.01|-196.26/-31.08|-226.01/-34.42|-215.89/-29.11|-215.72/-22.15|-213.76/-21.03</polystring>
+        <polystring>-192.37/-24.23|-196.26/-31.08|-226.01/-34.42|-215.89/-29.11|-215.72/-22.15|-213.76/-21.03</polystring>
         <custompropertyvalue variablename="vis_footprint" value="true"/>
       </polyhotspot>
       <polyhotspot description="발자국" url="{node29}" id="Poly07" title="" target="$fwd">
@@ -4150,9 +4150,6 @@
         <polystring>-114.75/38.86|-114.1/-54.55|-146.28/-40.15|-146.3/26.27</polystring>
         <custompropertyvalue variablename="vis_footprint" value="true"/>
       </polyhotspot>
-      <hotspot description="" pan="91.3322" url="{node27}" id="Point01" tilt="0" title="거실2" target="$fwd" skinid="ht_node">
-        <custompropertyvalue variablename="vis_footprint" value="true"/>
-      </hotspot>
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" type="crossdissolve" delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomfov="40" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomoutpause="1"/>
